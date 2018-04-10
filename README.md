@@ -6,6 +6,8 @@
 
 ![görüntü 3](https://raw.githubusercontent.com/TwentySomething/yy2/master/doc/ss/3.png)
 
+![görüntü 4](https://raw.githubusercontent.com/TwentySomething/yy2/master/doc/ss/4.png)
+
 ## yapılacaklar
 
 - [ ] skorların yerel hafızaya kaydedilmesi
