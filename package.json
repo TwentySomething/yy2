@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.19.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.20.3",
+    "webpack-notifier": "^1.6.0"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^2.1.1",
+    "classnames": "^2.2.5",
+    "normalize.css": "^8.0.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-transition-group": "^2.3.0"
+  }
+}
